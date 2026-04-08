@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey there, I'm Alexander Zhang
 
-<!--
-**alyxz-cmg/alyxz-cmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Computer Science & Bioinformatics @ UC Irvine
 
-Here are some ideas to get you started:
+I build ML-driven and full-stack applications, with a focus on bioinformatics and real-world impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently experimenting with medical imaging models, AI-assisted development workflows, and pushing performance with PyTorch and CUDA.
+
+## Tech Stack
+<b>AI/ML</b>: PyTorch, TensorFlow, CUDA, NumPy, Pandas, Scikit-learn
+<b>Languages</b>: Python, C++, HTML, CSS, JavaScript, Bootstrap, SQL
+<b>Frameworks & Tools</b>: Flask, Figma, Git, Gunicorn, PostgreSQL, Kinnser Software, Render
+
+## Contact
+<a href="https://www.linkedin.com/in/alexander-zhang-39bb8a306/">/in/alexander-zhang</a> · alexacz1[at]uci.edu
