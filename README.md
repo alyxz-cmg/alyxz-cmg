@@ -1,6 +1,6 @@
 # Hey there, I'm Alexander Zhang
 
-## Computer Science & Bioinformatics @ UC Irvine
+## Computer Science & Bioinformatics @ UC Irvine | Currently @ Western Digital
 
 I build ML-driven and full-stack applications, with a focus on bioinformatics and real-world impact.
 
